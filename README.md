@@ -1,2 +1,3 @@
-# DataAnalysis
-This Repository is for Data Analysis Projects.
+# Iris Data
+Minor Project in Data Analysis.
+Iris Dataset
